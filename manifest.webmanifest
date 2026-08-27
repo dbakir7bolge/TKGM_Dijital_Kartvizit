@@ -1,0 +1,16 @@
+{
+  "name": "Bağımsız Dijital Kartvizit",
+  "short_name": "Dijital Kart",
+  "description": "Android ve iPhone için kurulabilir dijital kartvizit uygulaması.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07101c",
+  "theme_color": "#0b1220",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
