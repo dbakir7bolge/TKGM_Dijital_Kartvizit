@@ -1,2 +1,0 @@
-# TKGM_Dijital_Kartvizit
-TKGM_Dijital_Kartvizit
